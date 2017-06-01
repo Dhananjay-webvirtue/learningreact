@@ -1,0 +1,11 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "npm install -g karma ::-  npm install -g karma-cli :::-  npm install -g jasmine-core ::::- npm install --save-dev jasmine karma karma-jasmine karma-chrome-launcher ::::::- karma init  :::::- karma start",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhananjay",
+  "license": "ISC"
+}

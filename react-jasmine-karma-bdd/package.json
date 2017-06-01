@@ -1,0 +1,40 @@
+{
+  "name": "react-jasmine-karma-bdd",
+  "version": "1.0.0",
+  "description": "first run command npm init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "for file bundling run connamd",
+    "\"gulp\"",
+    "and for server start run command",
+    "\"lite-server\""
+  ],
+  "author": "Dhananjay",
+  "license": "ISC",
+  "dependencies": {
+    "flux": "^3.1.2",
+    "react": "^15.5.4",
+    "react-bootstrap": "^0.31.0",
+    "react-dom": "^15.5.4",
+    "react-router": "^4.1.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-plugin-react-html-attrs": "^2.0.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babelify": "^7.3.0",
+    "browserify": "^14.4.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-util": "^3.0.8",
+    "json-loader": "^0.5.4",
+    "lite-server": "^2.3.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.9.0"
+  }
+}
